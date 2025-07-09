@@ -1,0 +1,2 @@
+def text_to_snake_case(text):
+    return text.lower().replace(' ', '_')
